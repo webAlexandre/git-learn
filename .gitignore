@@ -124,3 +124,5 @@ $RECYCLE.BIN/
 /_dev
 /_prod
 _README-*.md
+*.sh
+*.DS_STORE
